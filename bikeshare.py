@@ -17,11 +17,11 @@ def get_city():
     while True:
         try:
             city = input('Would you like to explore Chicago, New York City, or Washington?\n').title()
-            if city == 'Chicago' or city == 'chicago':
+            if city == 'Chicago':
                 return 'chicago.csv'
-            elif city == 'New York City' or city == 'new york city':
+            elif city == 'New York City':
                 return 'new_york_city.csv'
-            elif city == 'Washington' or city == 'washington':
+            elif city == 'Washington':
                 return 'washington.csv'
             else:
                 print('City names include: Chicago, New York City, or Washington.')

@@ -13,9 +13,12 @@ What I liked best about this project was learning to code with Python.  This is 
 
 ### Files used
 bikeshare-2.zip
+
 bikeshare.py
 
 ### Credits
 The following links are sources I used during my work:
+
 https://github.com/philribbens/udacity-bikeshare-project/blob/master/bikeshare.py
+
 https://realpython.com/python-main-function/

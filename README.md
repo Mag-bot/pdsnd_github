@@ -2,6 +2,8 @@
 I created the initial code and submitted the project on April 3, 2020.
 This GitHub submission of my python code for the bikeshare project is May 13, 2020.  I also created the README file on this date as well.
 
+I finalized this project on May 14, 2020 when I merged all the changes made to the project in two different branches 'documentation' and 'refactoring' together into the master branch.
+
 ### Bikeshare.py Project
 Project 2 for my Udacity nanodegree for Programming for Data Science with Python.
 
